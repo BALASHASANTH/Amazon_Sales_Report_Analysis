@@ -1,5 +1,4 @@
 # Amazon Sales Report Analysis
-![Screenshot 2024-08-17 133052](https://github.com/user-attachments/assets/9338799f-6ac6-46a2-81b0-7e3643f47b5f)
 ## Description
 This project focuses on analyzing Amazon sales data to extract meaningful insights and trends that can drive business decisions. The analysis covers various aspects, including product performance, sales trends, customer demographics, and revenue growth.
 ## Installation
